@@ -1,0 +1,1155 @@
+{
+  "states": [
+    {
+      "uf": "AC",
+      "name": "Acre",
+      "lat": -9.02,
+      "lon": -70.8,
+      "ready": false
+    },
+    {
+      "uf": "AL",
+      "name": "Alagoas",
+      "lat": -9.65,
+      "lon": -36.3,
+      "ready": false
+    },
+    {
+      "uf": "AP",
+      "name": "Amapá",
+      "lat": 1.8,
+      "lon": -51.8,
+      "ready": false
+    },
+    {
+      "uf": "AM",
+      "name": "Amazonas",
+      "lat": -3.5,
+      "lon": -64.8,
+      "ready": false
+    },
+    {
+      "uf": "BA",
+      "name": "Bahia",
+      "lat": -12.6,
+      "lon": -41.7,
+      "ready": false
+    },
+    {
+      "uf": "CE",
+      "name": "Ceará",
+      "lat": -5.2,
+      "lon": -39.4,
+      "ready": false
+    },
+    {
+      "uf": "DF",
+      "name": "Distrito Federal",
+      "lat": -15.8,
+      "lon": -47.9,
+      "ready": false
+    },
+    {
+      "uf": "ES",
+      "name": "Espírito Santo",
+      "lat": -19.5,
+      "lon": -40.6,
+      "ready": false
+    },
+    {
+      "uf": "GO",
+      "name": "Goiás",
+      "lat": -16.2,
+      "lon": -49.3,
+      "ready": false
+    },
+    {
+      "uf": "MA",
+      "name": "Maranhão",
+      "lat": -5.3,
+      "lon": -45.4,
+      "ready": false
+    },
+    {
+      "uf": "MT",
+      "name": "Mato Grosso",
+      "lat": -12.7,
+      "lon": -55.8,
+      "ready": false
+    },
+    {
+      "uf": "MS",
+      "name": "Mato Grosso do Sul",
+      "lat": -20.8,
+      "lon": -54.6,
+      "ready": false
+    },
+    {
+      "uf": "MG",
+      "name": "Minas Gerais",
+      "lat": -18.5,
+      "lon": -44.2,
+      "ready": true
+    },
+    {
+      "uf": "PA",
+      "name": "Pará",
+      "lat": -3.6,
+      "lon": -52.7,
+      "ready": false
+    },
+    {
+      "uf": "PB",
+      "name": "Paraíba",
+      "lat": -7.1,
+      "lon": -36.8,
+      "ready": false
+    },
+    {
+      "uf": "PR",
+      "name": "Paraná",
+      "lat": -24.7,
+      "lon": -51.6,
+      "ready": false
+    },
+    {
+      "uf": "PE",
+      "name": "Pernambuco",
+      "lat": -8.3,
+      "lon": -37.5,
+      "ready": true
+    },
+    {
+      "uf": "PI",
+      "name": "Piauí",
+      "lat": -7.7,
+      "lon": -42.7,
+      "ready": false
+    },
+    {
+      "uf": "RJ",
+      "name": "Rio de Janeiro",
+      "lat": -22.7,
+      "lon": -42.8,
+      "ready": true
+    },
+    {
+      "uf": "RN",
+      "name": "Rio Grande do Norte",
+      "lat": -5.7,
+      "lon": -36.6,
+      "ready": false
+    },
+    {
+      "uf": "RS",
+      "name": "Rio Grande do Sul",
+      "lat": -29.6,
+      "lon": -53.4,
+      "ready": false
+    },
+    {
+      "uf": "RO",
+      "name": "Rondônia",
+      "lat": -10.9,
+      "lon": -63.5,
+      "ready": false
+    },
+    {
+      "uf": "RR",
+      "name": "Roraima",
+      "lat": 2.1,
+      "lon": -61.1,
+      "ready": false
+    },
+    {
+      "uf": "SC",
+      "name": "Santa Catarina",
+      "lat": -27.1,
+      "lon": -50.5,
+      "ready": false
+    },
+    {
+      "uf": "SP",
+      "name": "São Paulo",
+      "lat": -22.5,
+      "lon": -48.2,
+      "ready": false
+    },
+    {
+      "uf": "SE",
+      "name": "Sergipe",
+      "lat": -10.6,
+      "lon": -37.4,
+      "ready": false
+    },
+    {
+      "uf": "TO",
+      "name": "Tocantins",
+      "lat": -10.3,
+      "lon": -48.5,
+      "ready": false
+    }
+  ],
+  "events": [
+    {
+      "id": "pe1601",
+      "uf": "PE",
+      "year": 1601,
+      "yearLabel": "1601",
+      "title": "Prosopopeia: de quem é essa literatura?",
+      "author": "Bento Teixeira (obra atribuída)",
+      "work": "Prosopopeia",
+      "period": "Produção colonial",
+      "tags": [
+        "Identidade",
+        "Forma"
+      ],
+      "kind": "obra",
+      "place": "Pernambuco como assunto; publicação em Lisboa",
+      "summary": "Poemeto épico dedicado a Jorge de Albuquerque Coelho, associado à capitania de Pernambuco. Frequentemente citado entre os marcos da escrita literária colonial, mas o rótulo “início da literatura brasileira” deve ser debatido.",
+      "rupture": "A obra recupera modelos épicos portugueses, em vez de instituir uma ruptura direta com eles. A questão é reconhecer os critérios usados para chamá-la de brasileira.",
+      "society": "A produção escrita colonial e a circulação editorial eram atravessadas pela colonização; tradições orais e saberes indígenas e africanos não começam nem se esgotam nesse tipo de documento.",
+      "q2": "Por que um livro sobre Pernambuco, publicado em Portugal, pode ser chamado de brasileiro?",
+      "qm": "Que critérios definem nacionalidade literária: território, autor, tema, idioma, leitor ou circulação?",
+      "connections": [
+        "rj1873",
+        "pe1909"
+      ],
+      "source": [
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/dossies/rede-da-memoria-virtual-brasileira/literatura/literatura-colonial/"
+        },
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/dossies/biblioteca-oliveira-lima-projeto-resgate-barao-do-rio-branco/acervo/os-pioneiros/"
+        }
+      ]
+    },
+    {
+      "id": "mg1768",
+      "uf": "MG",
+      "year": 1768,
+      "yearLabel": "1768",
+      "title": "O Arcadismo em Minas",
+      "author": "Cláudio Manuel da Costa",
+      "work": "Obras",
+      "period": "Arcadismo",
+      "tags": [
+        "Forma",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Vila Rica (hoje Ouro Preto), Minas Gerais",
+      "summary": "A publicação de Obras é reconhecida como um marco do Arcadismo no Brasil. O poeta se inspira no bucolismo clássico, mas sua linguagem também guarda vestígios barrocos.",
+      "rupture": "Em lugar da exuberância barroca, aparecem ideais de equilíbrio e temas pastorais. A passagem, entretanto, não é total: estilos diferentes convivem no mesmo autor.",
+      "society": "A mineração e a escravidão sustentavam grande parte da sociedade da capitania. Como contrastar a paisagem idealizada do poema com a vida real naquele território?",
+      "q2": "Como a paisagem idealizada dos pastores se diferencia da sociedade mineira da época?",
+      "qm": "Quais elementos barrocos sobrevivem na poesia árcade? Como contexto minerador e escravista tensiona o pastoralismo?",
+      "connections": [
+        "pe1601",
+        "mg1839",
+        "pe1919"
+      ],
+      "source": [
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/claudio-manoel-da-costa/"
+        },
+        {
+          "label": "Fundação Cecierj",
+          "url": "https://canal.cecierj.edu.br/012016/a2cd971b70c70dbd9d5e63cd0ffab484.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mg1789",
+      "uf": "MG",
+      "year": 1789,
+      "yearLabel": "1789",
+      "title": "Conjuração Mineira e limites da liberdade",
+      "author": "Marco histórico ligado aos poetas inconfidentes",
+      "work": "Conjuração Mineira",
+      "period": "História colonial",
+      "tags": [
+        "História",
+        "Sociedade"
+      ],
+      "kind": "historico",
+      "place": "Vila Rica, capitania de Minas Gerais",
+      "summary": "A Conjuração Mineira relaciona ideias políticas, repressão colonial e redes intelectuais às quais pertenceram poetas como Cláudio Manuel da Costa.",
+      "rupture": "O projeto político de independência não equivale, por si só, à emancipação estética, nem a uma superação da escravidão.",
+      "society": "A liberdade defendida por diferentes agentes da época tinha alcance desigual. É preciso investigar quem fazia parte da sociedade política e quem permanecia escravizado.",
+      "q2": "Liberdade para quem? Quem não participava das decisões políticas?",
+      "qm": "Em que medida projetos de emancipação colonial conviveram com a estrutura escravista?",
+      "connections": [
+        "mg1768",
+        "rj1873"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://login.academia.org.br/academicos/claudio-manoel-da-costa/biografia"
+        }
+      ]
+    },
+    {
+      "id": "mg1839",
+      "uf": "MG",
+      "year": 1839,
+      "yearLabel": "1839",
+      "title": "Vila Rica chega ao público",
+      "author": "Cláudio Manuel da Costa",
+      "work": "Vila Rica (composta em 1773)",
+      "period": "Arcadismo / recepção",
+      "tags": [
+        "História",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Ouro Preto, Minas Gerais",
+      "summary": "O poema havia ficado pronto em 1773, mas só foi publicado em 1839. O marco ajuda a diferenciar escrita, publicação e circulação.",
+      "rupture": "A obra olha para a origem colonial de Vila Rica segundo convenções épicas, abrindo debate sobre a construção das narrativas históricas.",
+      "society": "Quem aparece como protagonista na história da ocupação das Minas? O que a obra não apresenta sobre populações indígenas e escravizadas?",
+      "q2": "Por que um texto pode circular muito depois de ter sido escrito?",
+      "qm": "Como o intervalo entre composição (1773) e publicação (1839) altera a recepção de uma obra colonial?",
+      "connections": [
+        "mg1768",
+        "rj1873"
+      ],
+      "source": [
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/claudio-manoel-da-costa/"
+        },
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://login.academia.org.br/academicos/claudio-manoel-da-costa/biografia"
+        }
+      ]
+    },
+    {
+      "id": "rj1873",
+      "uf": "RJ",
+      "year": 1873,
+      "yearLabel": "1873",
+      "title": "Instinto de nacionalidade",
+      "author": "Machado de Assis",
+      "work": "Notícia da atual literatura brasileira: Instinto de nacionalidade",
+      "period": "Crítica literária do século XIX",
+      "tags": [
+        "Identidade",
+        "Forma"
+      ],
+      "kind": "ensaio",
+      "place": "Autor carioca; texto publicado em O Novo Mundo (Nova York)",
+      "summary": "Machado discute a produção literária nacional sem reduzi-la à obrigação de representar paisagens ou assuntos locais.",
+      "rupture": "O ensaio desloca o debate da nacionalidade: não basta escolher um tema “brasileiro”; importa a perspectiva e o trabalho literário.",
+      "society": "Enquanto se buscava uma identidade nacional, a escravidão permanecia legal no Brasil. Que sujeitos entravam nessa ideia de nação?",
+      "q2": "Um romance que se passa em outro país também pode ser literatura brasileira?",
+      "qm": "Como o “sentimento íntimo” de nacionalidade tensiona critérios românticos de cor local?",
+      "connections": [
+        "pe1601",
+        "mg1839",
+        "rj1881",
+        "pe1970"
+      ],
+      "source": [
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/dossies/gramaticas-e-dicionarios-do-portugues/linha-do-tempo/sobre-as-efemerides/1873-a-literatura-e-a-lingua-por-machado-de-assis/"
+        },
+        {
+          "label": "MEC — obra completa",
+          "url": "https://machado.mec.gov.br/obra-completa-lista/item/download/95_a034209a67594696a9b556534ff73116"
+        }
+      ]
+    },
+    {
+      "id": "rj1881",
+      "uf": "RJ",
+      "year": 1881,
+      "yearLabel": "1881",
+      "title": "O narrador vira problema",
+      "author": "Machado de Assis",
+      "work": "Memórias Póstumas de Brás Cubas (edição em livro)",
+      "period": "Realismo / renovação narrativa",
+      "tags": [
+        "Forma",
+        "Sociedade"
+      ],
+      "kind": "obra",
+      "place": "Rio de Janeiro",
+      "summary": "Romance narrado por um defunto autor que dialoga com o leitor e desmonta convenções de enredo e de narrador confiável.",
+      "rupture": "A ironia e a fragmentação narrativa afastam-se da idealização romântica. Machado não cabe perfeitamente numa classificação escolar rígida.",
+      "society": "As relações entre elite, escravidão, dependência e prestígio social podem ser investigadas por meio da perspectiva de Brás Cubas.",
+      "q2": "Você confiaria em um narrador que conta a história depois de morto? Por quê?",
+      "qm": "De que modo o narrador de elite expõe e ao mesmo tempo encobre suas próprias contradições sociais?",
+      "connections": [
+        "rj1873",
+        "rj1909",
+        "mg2003"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www2.academia.org.br/academicos/machado-de-assis/biografia"
+        }
+      ]
+    },
+    {
+      "id": "rj1897",
+      "uf": "RJ",
+      "year": 1897,
+      "yearLabel": "1897",
+      "title": "Instituições e formação do cânone",
+      "author": "Fundação da Academia Brasileira de Letras",
+      "work": "Academia Brasileira de Letras — presidência de Machado de Assis",
+      "period": "História cultural",
+      "tags": [
+        "Sociedade",
+        "História"
+      ],
+      "kind": "historico",
+      "place": "Rio de Janeiro",
+      "summary": "A Academia Brasileira de Letras foi instalada no Rio de Janeiro em 1897, tendo Machado de Assis como primeiro presidente.",
+      "rupture": "Instituições literárias podem valorizar obras, mas também influenciar quem é consagrado ou permanece fora das seleções mais conhecidas.",
+      "society": "Investigue quem teve acesso à educação, à imprensa e às instituições culturais naquele momento.",
+      "q2": "Quem decide quais escritores passam a ser chamados de clássicos?",
+      "qm": "Quais processos materiais e simbólicos participam da canonização literária?",
+      "connections": [
+        "rj1881",
+        "rj1909",
+        "mg2003"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www2.academia.org.br/academicos/machado-de-assis/biografia"
+        }
+      ]
+    },
+    {
+      "id": "pe1909",
+      "uf": "PE",
+      "year": 1909,
+      "yearLabel": "1909",
+      "title": "O cordel ocupa a cidade e a imprensa",
+      "author": "Leandro Gomes de Barros e João Martins de Athayde",
+      "work": "Folhetos e tipografias de cordel no Recife",
+      "period": "Literatura popular impressa",
+      "tags": [
+        "Sociedade",
+        "Forma"
+      ],
+      "kind": "historico",
+      "place": "Recife e redes do interior nordestino",
+      "summary": "A circulação dos folhetos de cordel ganha força entre o final do século XIX e o começo do XX. Em 1909, João Martins de Athayde estabelece uma tipografia no Recife.",
+      "rupture": "A forma popular impressa contesta a ideia de que só livros de circulação erudita constroem a história literária.",
+      "society": "A literatura também é produzida por mercados, ruas, feiras, impressos baratos, performances e redes de oralidade.",
+      "q2": "Onde as pessoas encontram literatura fora de livrarias e escolas?",
+      "qm": "Como oralidade, tecnologia de impressão e mercado popular desafiam a noção de cânone?",
+      "connections": [
+        "pe1601",
+        "pe1970",
+        "pe1919"
+      ],
+      "source": [
+        {
+          "label": "Fundação Joaquim Nabuco",
+          "url": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/edicao-de-cordel-no-brasil/"
+        },
+        {
+          "label": "Fundação Joaquim Nabuco",
+          "url": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/leandro-gomes-de-barros/"
+        }
+      ]
+    },
+    {
+      "id": "rj1909",
+      "uf": "RJ",
+      "year": 1909,
+      "yearLabel": "1909",
+      "title": "Racismo, imprensa e exclusão",
+      "author": "Lima Barreto",
+      "work": "Recordações do Escrivão Isaías Caminha",
+      "period": "Pré-modernismo (rótulo escolar) / crítica social",
+      "tags": [
+        "Sociedade",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Rio de Janeiro; edição de estreia publicada em Lisboa",
+      "summary": "O romance acompanha um personagem negro e denuncia o racismo, as desigualdades e o funcionamento da imprensa.",
+      "rupture": "A crítica social desloca o olhar para sujeitos e espaços pouco prestigiados. A aproximação com Machado deve ser analítica, não apresentada como rivalidade direta.",
+      "society": "O livro foi publicado pouco mais de duas décadas após a abolição; a cidadania formal não eliminou barreiras raciais e sociais.",
+      "q2": "Que obstáculos Isaías encontra ao tentar estudar e trabalhar?",
+      "qm": "Compare os mecanismos de ironia e a perspectiva de classe em Lima Barreto e Machado de Assis.",
+      "connections": [
+        "rj1881",
+        "rj1897",
+        "pe1944",
+        "mg2003"
+      ],
+      "source": [
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/artigos/colecoes-da-secao-de-manuscritos-lima-barreto/"
+        },
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www.academia.org.br/artigos/lima-barreto-o-defensor-do-tupiguarani"
+        }
+      ]
+    },
+    {
+      "id": "rj1915",
+      "uf": "RJ",
+      "year": 1915,
+      "yearLabel": "1915",
+      "title": "Que tipo de patriotismo está em questão?",
+      "author": "Lima Barreto",
+      "work": "Triste Fim de Policarpo Quaresma (edição em livro)",
+      "period": "Pré-modernismo (rótulo escolar)",
+      "tags": [
+        "Identidade",
+        "Sociedade"
+      ],
+      "kind": "obra",
+      "place": "Rio de Janeiro",
+      "summary": "Após circular em folhetins em 1911, a obra aparece em livro em 1915, satirizando visões ingênuas de patriotismo e instituições republicanas.",
+      "rupture": "O nacionalismo deixa de ser apenas celebração: torna-se assunto de crítica e de humor.",
+      "society": "A narrativa problematiza as distâncias entre discursos patrióticos, práticas políticas e experiência dos cidadãos.",
+      "q2": "Amar um país significa concordar com tudo o que acontece nele?",
+      "qm": "Como o romance satiriza projetos de identidade nacional e os limites da Primeira República?",
+      "connections": [
+        "rj1873",
+        "rj1909",
+        "pe1970"
+      ],
+      "source": [
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/artigos/colecoes-da-secao-de-manuscritos-lima-barreto/"
+        },
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www.academia.org.br/artigos/lima-barreto-o-defensor-do-tupiguarani"
+        }
+      ]
+    },
+    {
+      "id": "pe1919",
+      "uf": "PE",
+      "year": 1919,
+      "yearLabel": "1919",
+      "title": "Os Sapos: a forma vira alvo",
+      "author": "Manuel Bandeira",
+      "work": "Os Sapos, publicado em Carnaval",
+      "period": "Modernismo em formação",
+      "tags": [
+        "Forma",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Autor nascido no Recife; livro publicado no Rio de Janeiro",
+      "summary": "Bandeira usa a linguagem poética para ironizar procedimentos parnasianos, especialmente o culto excessivo ao acabamento formal.",
+      "rupture": "A crítica não implica abandono absoluto da tradição: o poeta conhece e mobiliza recursos formais para satirizá-los.",
+      "society": "A relação entre o prestígio das instituições e a abertura à experimentação ajuda a contextualizar as disputas estéticas.",
+      "q2": "Por que um poeta pode usar versos para criticar outros versos?",
+      "qm": "Como a paródia, as rimas e a caracterização do “sapo-tanoeiro” desmontam a poética parnasiana?",
+      "connections": [
+        "mg1768",
+        "pe1922",
+        "mg1930",
+        "rj1982"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www2.academia.org.br/academicos/manuel-bandeira/biografia"
+        },
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www.academia.org.br/academicos/manuel-bandeira/textos-escolhidos"
+        }
+      ]
+    },
+    {
+      "id": "pe1922",
+      "uf": "PE",
+      "year": 1922,
+      "yearLabel": "1922",
+      "title": "Do Recife ao palco paulista",
+      "author": "Recepção de Manuel Bandeira",
+      "work": "Recitação de Os Sapos na Semana de Arte Moderna",
+      "period": "Modernismo / circulação",
+      "tags": [
+        "Forma",
+        "História"
+      ],
+      "kind": "historico",
+      "place": "Poema de autor pernambucano, declamado em São Paulo",
+      "summary": "Ronald de Carvalho declamou Os Sapos durante a Semana de Arte Moderna de 1922. Bandeira não participou presencialmente do evento.",
+      "rupture": "Uma obra muda de significado conforme o lugar, o público e a ocasião em que circula.",
+      "society": "As redes entre cidades e artistas mostram os limites de localizar todo movimento literário num único estado.",
+      "q2": "Como um poema de um autor pernambucano virou assunto em São Paulo?",
+      "qm": "Que diferença existe entre publicar um texto em 1919 e sua recepção pública em 1922?",
+      "connections": [
+        "pe1919",
+        "mg1930",
+        "rj1982"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www2.academia.org.br/academicos/manuel-bandeira/biografia"
+        }
+      ]
+    },
+    {
+      "id": "mg1930",
+      "uf": "MG",
+      "year": 1930,
+      "yearLabel": "1930",
+      "title": "Uma voz moderna a partir de Minas",
+      "author": "Carlos Drummond de Andrade",
+      "work": "Alguma poesia",
+      "period": "Modernismo de 1930",
+      "tags": [
+        "Forma",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Itabira e Belo Horizonte, Minas Gerais; circulação nacional",
+      "summary": "A estreia de Drummond em livro consolida procedimentos modernistas, com humor, versos livres e tensão entre o cotidiano e o sujeito.",
+      "rupture": "O modernismo ganha outras inflexões: menos manifesto inaugural e mais investigação do indivíduo e das contradições sociais.",
+      "society": "A vida urbana, a transformação do país e a posição do sujeito diante da coletividade atravessam a produção dos anos 1930.",
+      "q2": "Como um assunto cotidiano pode virar poesia?",
+      "qm": "Como Drummond reelabora, em vez de simplesmente repetir, a liberdade formal da primeira geração modernista?",
+      "connections": [
+        "pe1919",
+        "pe1922",
+        "mg1976",
+        "rj1982"
+      ],
+      "source": [
+        {
+          "label": "Biblioteca Nacional Digital",
+          "url": "https://bndigital.bn.gov.br/dossies/gramaticas-e-dicionarios-do-portugues/linha-do-tempo/sobre-as-efemerides/1930-revolucao-de-outubro/"
+        }
+      ]
+    },
+    {
+      "id": "pe1936",
+      "uf": "PE",
+      "year": 1936,
+      "yearLabel": "1936",
+      "title": "Organização cultural negra no Recife",
+      "author": "Solano Trindade e outros intelectuais",
+      "work": "Frente Negra Pernambucana e Centro de Cultura Afro-Brasileira",
+      "period": "Afirmação cultural afro-brasileira",
+      "tags": [
+        "História",
+        "Sociedade"
+      ],
+      "kind": "historico",
+      "place": "Recife, Pernambuco",
+      "summary": "Solano Trindade participou da criação de organizações dedicadas à expressão cultural e ao reconhecimento da história afro-brasileira.",
+      "rupture": "A cultura negra deixa de ser tratada apenas como tema de outros: seus agentes organizam espaços próprios de autoria e circulação.",
+      "society": "A experiência ocorre num país marcado pelo racismo e por disputas sobre a participação da população negra na vida cultural.",
+      "q2": "Por que artistas criam coletivos e instituições para divulgar suas produções?",
+      "qm": "Como a atuação de Solano amplia o entendimento de autoria, produção cultural e militância?",
+      "connections": [
+        "pe1944",
+        "rj1897",
+        "rj1909"
+      ],
+      "source": [
+        {
+          "label": "Ministério da Cultura / UFPA",
+          "url": "https://www.gov.br/cultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/teds/2025/termo-de-execucao-descentralizada-do-programa-no-30882120250031-escola-solano-trindade-escult-2025/plano-de-trabalho-ted-ufpa.pdf/%40%40download/file"
+        }
+      ]
+    },
+    {
+      "id": "pe1944",
+      "uf": "PE",
+      "year": 1944,
+      "yearLabel": "1944",
+      "title": "Poesia negra e questão social",
+      "author": "Solano Trindade",
+      "work": "Poemas d’uma vida simples",
+      "period": "Poesia afro-brasileira / engajamento",
+      "tags": [
+        "Sociedade",
+        "Forma"
+      ],
+      "kind": "obra",
+      "place": "Poeta nascido no Recife; atuou também no Rio de Janeiro",
+      "summary": "O livro articula linguagem acessível, denúncia das desigualdades e afirmação da cultura negra. O poema Tem gente com fome integra esse universo.",
+      "rupture": "A invenção literária também acontece fora das narrativas de vanguarda consagradas: palavra, ritmo e denúncia se encontram.",
+      "society": "A fome e o racismo entram em cena como questões de experiência social e reivindicação política.",
+      "q2": "Como a repetição e o ritmo de um poema podem produzir uma denúncia?",
+      "qm": "Em que sentido formas populares e compromisso político desestabilizam hierarquias de valor literário?",
+      "connections": [
+        "pe1936",
+        "rj1909",
+        "pe1955",
+        "mg2003"
+      ],
+      "source": [
+        {
+          "label": "Ministério da Cultura / UFPA",
+          "url": "https://www.gov.br/cultura/pt-br/acesso-a-informacao/licitacoes-e-contratos/teds/2025/termo-de-execucao-descentralizada-do-programa-no-30882120250031-escola-solano-trindade-escult-2025/plano-de-trabalho-ted-ufpa.pdf/%40%40download/file"
+        }
+      ]
+    },
+    {
+      "id": "pe1950",
+      "uf": "PE",
+      "year": 1950,
+      "yearLabel": "1950",
+      "title": "O rio como linguagem e problema social",
+      "author": "João Cabral de Melo Neto",
+      "work": "O Cão sem Plumas",
+      "period": "Poesia moderna brasileira",
+      "tags": [
+        "Forma",
+        "Sociedade"
+      ],
+      "kind": "obra",
+      "place": "Rio Capibaribe e Recife, Pernambuco",
+      "summary": "O poema associa o Capibaribe a uma paisagem social e humana. A imagem do rio se torna modo de discutir condições de vida.",
+      "rupture": "João Cabral combina invenção formal e observação concreta, distanciando-se do sentimentalismo convencional.",
+      "society": "As relações entre cidade, rio e desigualdade permitem cruzar geografia, história urbana e poesia.",
+      "q2": "O que um rio revela sobre a vida das pessoas de uma cidade?",
+      "qm": "Como imagens materiais e construção verbal rigorosa produzem uma crítica social?",
+      "connections": [
+        "pe1955",
+        "mg1956",
+        "pe1909"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www.academia.org.br/academicos/joao-cabral-de-melo-neto/biografia"
+        }
+      ]
+    },
+    {
+      "id": "pe1955",
+      "uf": "PE",
+      "year": 1955,
+      "yearLabel": "1954–1955",
+      "title": "Morte e Vida Severina: a travessia",
+      "author": "João Cabral de Melo Neto",
+      "work": "Morte e Vida Severina (composição)",
+      "period": "Poesia dramática moderna",
+      "tags": [
+        "Forma",
+        "Sociedade"
+      ],
+      "kind": "obra",
+      "place": "Da região sertaneja ao Recife, Pernambuco",
+      "summary": "Poema dramático escrito entre 1954 e 1955, publicado posteriormente em Duas Águas (1956). A caminhada do retirante transforma o espaço em argumento sobre a desigualdade.",
+      "rupture": "A forma do auto e a linguagem rigorosa se unem à crítica social; erudito e popular deixam de ser polos simples.",
+      "society": "Migração, concentração fundiária, pobreza e mortalidade são contextos essenciais, sem reduzir a obra a ilustração sociológica.",
+      "q2": "Por que várias pessoas podem se chamar Severino no poema?",
+      "qm": "Como a estrutura do auto e a construção do ritmo articulam experiência coletiva e singularidade?",
+      "connections": [
+        "pe1950",
+        "mg1956",
+        "pe1944",
+        "pe1970"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www2.academia.org.br/noticias/morte-e-vida-severina-70-anos-palestra-na-quinta-e-cultura-relembra-primeira-encenacao-da"
+        },
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www.academia.org.br/academicos/joao-cabral-de-melo-neto/biografia"
+        }
+      ]
+    },
+    {
+      "id": "mg1956",
+      "uf": "MG",
+      "year": 1956,
+      "yearLabel": "1956",
+      "title": "O sertão reinventa a língua",
+      "author": "João Guimarães Rosa",
+      "work": "Grande Sertão: Veredas",
+      "period": "Prosa inovadora do pós-1945",
+      "tags": [
+        "Forma",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Sertão de Minas Gerais e Bahia; escrita também no Rio de Janeiro",
+      "summary": "O romance faz a oralidade e a criação de palavras participarem da própria construção do universo narrativo.",
+      "rupture": "Em vez de usar o sertão apenas como cenário regional, a obra faz de sua linguagem um caminho para questões éticas e universais.",
+      "society": "As identidades regionais não se reduzem a atraso ou folclore; personagens sertanejos produzem saber e reflexão.",
+      "q2": "Como a linguagem inventada pode aproximar o leitor da fala de uma personagem?",
+      "qm": "Como o romance ultrapassa a oposição rígida entre regionalismo e universalidade?",
+      "connections": [
+        "pe1955",
+        "mg1930",
+        "rj1881"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www.academia.org.br/academicos/joao-guimaraes-rosa/biografia"
+        }
+      ]
+    },
+    {
+      "id": "pe1970",
+      "uf": "PE",
+      "year": 1970,
+      "yearLabel": "1970",
+      "title": "Armorial: popular e erudito em diálogo",
+      "author": "Ariano Suassuna e artistas do Recife",
+      "work": "Lançamento do Movimento Armorial",
+      "period": "Movimento Armorial",
+      "tags": [
+        "Identidade",
+        "Forma"
+      ],
+      "kind": "historico",
+      "place": "Recife, Pernambuco; Ariano nasceu na Paraíba",
+      "summary": "O movimento foi lançado oficialmente no Recife em 18 de outubro de 1970, propondo criar arte erudita a partir de manifestações populares nordestinas.",
+      "rupture": "Ao valorizar cordel, xilogravura, música e teatro, provoca uma discussão sobre as fronteiras entre o que é chamado de popular e erudito.",
+      "society": "A busca por uma arte “autêntica” também merece análise crítica: quem define autenticidade e quais tradições são selecionadas?",
+      "q2": "Por que uma obra pode misturar literatura de cordel, teatro e música?",
+      "qm": "Como o projeto Armorial dialoga e entra em tensão com diferentes modelos de modernidade e nacionalidade?",
+      "connections": [
+        "pe1909",
+        "pe1955",
+        "rj1873",
+        "rj1915"
+      ],
+      "source": [
+        {
+          "label": "Fundação Joaquim Nabuco",
+          "url": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/movimento-armorial/"
+        }
+      ]
+    },
+    {
+      "id": "mg1976",
+      "uf": "MG",
+      "year": 1976,
+      "yearLabel": "1976",
+      "title": "O cotidiano feminino ganha outra força",
+      "author": "Adélia Prado",
+      "work": "Bagagem",
+      "period": "Poesia contemporânea",
+      "tags": [
+        "Sociedade",
+        "Forma"
+      ],
+      "kind": "obra",
+      "place": "Divinópolis, Minas Gerais; lançamento no Rio de Janeiro",
+      "summary": "A estreia em livro valoriza a experiência cotidiana, a religiosidade e a perspectiva feminina, com uma voz poética singular.",
+      "rupture": "A poesia de Adélia dialoga com a tradição e com Drummond, sem ser uma simples continuação estética.",
+      "society": "Que experiências antes consideradas pequenas ou privadas podem ganhar centralidade literária?",
+      "q2": "O que pode virar assunto de um poema?",
+      "qm": "Como a voz feminina reconfigura a relação entre cotidiano, corpo, fé e tradição poética?",
+      "connections": [
+        "mg1930",
+        "rj1982",
+        "mg2003"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras",
+          "url": "https://www2.academia.org.br/noticias/adelia-prado-recebe-o-premio-machado-de-assis-nos-127-anos-da-abl"
+        }
+      ]
+    },
+    {
+      "id": "rj1982",
+      "uf": "RJ",
+      "year": 1982,
+      "yearLabel": "1982",
+      "title": "A intimidade como construção literária",
+      "author": "Ana Cristina Cesar",
+      "work": "A teus pés",
+      "period": "Poesia marginal / contemporânea",
+      "tags": [
+        "Forma",
+        "Sociedade"
+      ],
+      "kind": "obra",
+      "place": "Rio de Janeiro",
+      "summary": "A obra reúne poemas e procedimentos próximos de cartas, diários e conversas, experimentando uma intimidade que também é criação estética.",
+      "rupture": "Os limites entre confissão e ficção se tornam instáveis. A poesia dialoga com, mas não repete, os projetos modernistas anteriores.",
+      "society": "As formas de circulação e a cena cultural da ditadura civil-militar estão entre os contextos relevantes para a poesia dos anos 1970 e 1980.",
+      "q2": "Uma carta sempre revela exatamente o que uma pessoa sente?",
+      "qm": "Como a poeta constrói uma voz aparentemente confessional e questiona expectativas de autenticidade?",
+      "connections": [
+        "pe1919",
+        "mg1930",
+        "mg1976"
+      ],
+      "source": [
+        {
+          "label": "Instituto Moreira Salles",
+          "url": "https://ims.com.br/2017/06/01/sobre-ana-cristina-cesar/"
+        }
+      ]
+    },
+    {
+      "id": "pe1999",
+      "uf": "PE",
+      "year": 1999,
+      "yearLabel": "1999",
+      "title": "A palavra indígena é contemporânea",
+      "author": "Graça Graúna",
+      "work": "Canto Mestizo",
+      "period": "Literatura indígena contemporânea",
+      "tags": [
+        "Sociedade",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Atuação acadêmica e cultural em Pernambuco; autora nascida no RN",
+      "summary": "Autora indígena potiguara com forte vínculo acadêmico e cultural com Pernambuco, Graça Graúna publicou Canto Mestizo em 1999.",
+      "rupture": "A autoria indígena desloca a imagem de povos originários como personagens do passado para o presente da produção literária.",
+      "society": "A identidade indígena não é um tema exótico, e sim um lugar contemporâneo de enunciação, memória e reivindicação.",
+      "q2": "Qual a diferença entre alguém escrever sobre um povo indígena e uma pessoa indígena escrever a própria história?",
+      "qm": "Como a autoria indígena questiona representações indianistas, arquivos coloniais e divisões entre oralidade e escrita?",
+      "connections": [
+        "pe1601",
+        "rj2004",
+        "mg2019"
+      ],
+      "source": [
+        {
+          "label": "USP — Instituto de Estudos Avançados",
+          "url": "https://www.iea.usp.br/pessoas/pasta-pessoag/graca-grauna"
+        },
+        {
+          "label": "Revista Palimpsesto / UERJ",
+          "url": "https://www.e-publicacoes.uerj.br/palimpsesto/article/view/35069"
+        }
+      ]
+    },
+    {
+      "id": "mg2003",
+      "uf": "MG",
+      "year": 2003,
+      "yearLabel": "2003",
+      "title": "Escrevivência e novas centralidades",
+      "author": "Conceição Evaristo",
+      "work": "Ponciá Vicêncio",
+      "period": "Literatura negra contemporânea",
+      "tags": [
+        "Sociedade",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Nascida em Belo Horizonte; atuação literária e docente também no Rio de Janeiro",
+      "summary": "O romance de estreia de Conceição Evaristo é atravessado por memória, ancestralidade e experiência da população negra. A autora elabora a noção de escrevivência.",
+      "rupture": "O foco se desloca para perspectivas que foram historicamente marginalizadas na formação dos cânones e nas narrativas nacionais.",
+      "society": "As relações entre raça, gênero, trabalho, migração e memória permitem examinar a persistência de desigualdades.",
+      "q2": "O que muda em uma história quando outra personagem passa a narrá-la?",
+      "qm": "Compare as perspectivas de autoria e as estratégias narrativas de Machado, Lima Barreto e Conceição Evaristo.",
+      "connections": [
+        "rj1881",
+        "rj1909",
+        "pe1944",
+        "mg1976"
+      ],
+      "source": [
+        {
+          "label": "Itaú Cultural",
+          "url": "https://www.itaucultural.org.br/ocupacao/conceicao-evaristo/escrevivencia/"
+        },
+        {
+          "label": "Itaú Cultural",
+          "url": "https://www.itaucultural.org.br/ocupacao-conceicao-evaristo"
+        }
+      ]
+    },
+    {
+      "id": "rj2004",
+      "uf": "RJ",
+      "year": 2004,
+      "yearLabel": "2004",
+      "title": "A memória indígena toma a palavra",
+      "author": "Eliane Potiguara",
+      "work": "Metade Cara, Metade Máscara",
+      "period": "Literatura indígena contemporânea",
+      "tags": [
+        "Sociedade",
+        "Identidade"
+      ],
+      "kind": "obra",
+      "place": "Autora nascida no Rio de Janeiro; ancestralidade Potiguara ligada ao Nordeste",
+      "summary": "O livro articula narrativa poética, memória, ancestralidade, resistência indígena e experiência de mulheres.",
+      "rupture": "Diferentemente de representar indígenas como personagens distantes, a obra afirma autoria, continuidade histórica e pertencimento.",
+      "society": "As violências da colonização e seus efeitos não são passado encerrado, e mulheres indígenas tornam-se agentes da narrativa.",
+      "q2": "Quais diferenças existem entre histórias contadas sobre os indígenas e histórias contadas por autores indígenas?",
+      "qm": "Como o livro confronta imagens coloniais e indianistas e debate território, gênero e memória?",
+      "connections": [
+        "pe1999",
+        "mg2019",
+        "rj1873"
+      ],
+      "source": [
+        {
+          "label": "Museu Nacional dos Povos Indígenas",
+          "url": "https://pesquisa.museudoindio.gov.br/index.php/metade-cara-metade-mascara"
+        },
+        {
+          "label": "Biblioteca Nacional",
+          "url": "https://acervo.bn.gov.br/sophia_web/acervo/detalhe/113719?i=1"
+        },
+        {
+          "label": "UFRJ",
+          "url": "https://conexao.ufrj.br/2021/11/eliane-potiguara-agora-e-doutora-honoris-causa-pela-ufrj/"
+        }
+      ]
+    },
+    {
+      "id": "mg2019",
+      "uf": "MG",
+      "year": 2019,
+      "yearLabel": "2019",
+      "title": "Uma crítica à ideia de progresso",
+      "author": "Ailton Krenak",
+      "work": "Ideias para adiar o fim do mundo",
+      "period": "Ensaio e pensamento indígena contemporâneo",
+      "tags": [
+        "Sociedade",
+        "Identidade"
+      ],
+      "kind": "ensaio",
+      "place": "Autor do povo Krenak, nascido em Minas Gerais",
+      "summary": "Livro de ensaios baseado em conferências e entrevista, que põe em questão a separação entre sociedade e natureza e certos discursos de desenvolvimento.",
+      "rupture": "O diálogo com diferentes tradições de pensamento abre o conceito de literatura e de autoria indígena para além do romance e da poesia.",
+      "society": "Questões ambientais, territoriais e indígenas se articulam sem reduzir os povos originários a vítimas do passado.",
+      "q2": "Por que uma pessoa pode discordar da ideia de que o futuro sempre será melhor?",
+      "qm": "Como o ensaio de Krenak questiona categorias modernas de humanidade, progresso e natureza?",
+      "connections": [
+        "pe1999",
+        "rj2004",
+        "rj1873"
+      ],
+      "source": [
+        {
+          "label": "Funai",
+          "url": "https://www.gov.br/funai/pt-br/assuntos/noticias/2024/ailton-krenak-e-o-primeiro-indigena-a-se-tornar-2018imortal2019-da-academia-brasileira-de-letras"
+        },
+        {
+          "label": "Arquivo Nacional",
+          "url": "https://revista.an.gov.br/index.php/revistaacervo/article/download/1650/1630/6285"
+        }
+      ]
+    }
+  ],
+  "national": [
+    {
+      "year": "Antes de 1500",
+      "title": "Tradições orais e conhecimentos originários",
+      "text": "A história dos territórios e de suas narrativas não começa com a chegada dos portugueses. Evitar tratar a escrita colonial como única origem da literatura.",
+      "kind": "contexto"
+    },
+    {
+      "year": "1500",
+      "title": "Contato colonial e escrita europeia",
+      "text": "O ponto de vista dos cronistas coloniais não é equivalente às perspectivas indígenas. Perguntar sempre quem narra e para quem.",
+      "kind": "contexto"
+    },
+    {
+      "year": "1822",
+      "title": "Independência política",
+      "text": "A independência do Estado brasileiro não resolve automaticamente o debate sobre autonomia cultural e literária.",
+      "kind": "politica"
+    },
+    {
+      "year": "1888",
+      "title": "Abolição legal da escravidão",
+      "text": "A abolição não encerrou o racismo nem as desigualdades; examinar como obras e autores interpretam o pós-abolição.",
+      "kind": "social"
+    },
+    {
+      "year": "1922",
+      "title": "Semana de Arte Moderna em São Paulo",
+      "text": "Acontecimento de grande repercussão, não um início único ou exclusivo do modernismo brasileiro.",
+      "kind": "estetica"
+    },
+    {
+      "year": "2008",
+      "title": "Lei nº 11.645 / artigo 26-A da LDB",
+      "text": "A escola deve estudar história e cultura afro-brasileira e indígena no Ensino Fundamental e Médio.",
+      "kind": "educacao"
+    }
+  ],
+  "routes": [
+    {
+      "id": "identidade",
+      "title": "Quem pode definir o Brasil?",
+      "subtitle": "De um poema colonial à autoria indígena contemporânea",
+      "theme": "Identidade",
+      "ids": [
+        "pe1601",
+        "rj1873",
+        "pe1999",
+        "rj2004",
+        "mg2019"
+      ],
+      "question": "Uma literatura é brasileira pelo lugar, pela forma, por quem escreve ou pelas experiências que mobiliza?"
+    },
+    {
+      "id": "forma",
+      "title": "Quando a poesia desafia a poesia",
+      "subtitle": "Tradição, paródia, linguagem cotidiana e experimentação",
+      "theme": "Forma",
+      "ids": [
+        "mg1768",
+        "pe1919",
+        "pe1922",
+        "mg1930",
+        "rj1982"
+      ],
+      "question": "Toda ruptura abandona completamente aquilo que critica?"
+    },
+    {
+      "id": "racismo",
+      "title": "Cânone, raça e sociedade",
+      "subtitle": "Acesso à cultura, desigualdade, reconhecimento e novas perspectivas",
+      "theme": "Sociedade",
+      "ids": [
+        "rj1881",
+        "rj1897",
+        "rj1909",
+        "pe1944",
+        "mg2003"
+      ],
+      "question": "Quem foi autorizado a falar e que vozes se tornaram referências literárias?"
+    },
+    {
+      "id": "sertao",
+      "title": "Sertões de muitas linguagens",
+      "subtitle": "O rio, a migração, a oralidade e a inovação formal",
+      "theme": "Forma",
+      "ids": [
+        "pe1950",
+        "pe1955",
+        "mg1956"
+      ],
+      "question": "De que modo escolhas de linguagem alteram nossa ideia de sertão?"
+    }
+  ],
+  "stats": {
+    "MG": 8,
+    "RJ": 7,
+    "PE": 10
+  }
+}
