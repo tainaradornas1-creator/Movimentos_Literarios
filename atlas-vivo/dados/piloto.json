@@ -398,6 +398,46 @@
       ]
     },
     {
+      "id": "rj1888",
+      "uf": "RJ",
+      "year": 1888,
+      "yearLabel": "1888",
+      "title": "A oficina da forma: o Parnasianismo",
+      "author": "Olavo Bilac",
+      "work": "Poesias (inclui “Profissão de Fé”)",
+      "period": "Parnasianismo",
+      "tags": [
+        "Forma",
+        "Identidade"
+      ],
+      "kind": "publicação",
+      "place": "Olavo Bilac nasceu e atuou no Rio de Janeiro; primeira edição publicada em São Paulo",
+      "summary": "Em Poesias (1888), Bilac valoriza o trabalho com a forma, a rima e o ritmo. “Profissão de Fé” compara o ofício do poeta ao trabalho do artesão.",
+      "rupture": "O esmero técnico não é ausência de criatividade. A sátira de “Os Sapos” (1919) questiona o risco de transformar uma técnica em receita; não deve ser entendida como rejeição integral do Parnasianismo.",
+      "society": "O prestígio de padrões formais e a circulação de poesia em jornais, livros e espaços culturais fazem parte da disputa sobre quem define o bom gosto literário.",
+      "q2": "Por que Bilac compara o poeta ao artesão? Como isso ajuda a ler “Os Sapos”?",
+      "qm": "Compare o labor formal em Bilac à sátira de Bandeira aos epígonos do Parnasianismo: o alvo é a forma ou sua repetição mecânica?",
+      "connections": [
+        "pe1919",
+        "pe1922",
+        "rj1897"
+      ],
+      "source": [
+        {
+          "label": "Academia Brasileira de Letras — Olavo Bilac",
+          "url": "https://www.academia.org.br/academicos/olavo-bilac/biografia"
+        },
+        {
+          "label": "UFSC — ficha bibliográfica de Poesias",
+          "url": "https://literaturabrasileira.ufsc.br/documentos?id=136223"
+        },
+        {
+          "label": "ABL — ensaio sobre Carnaval e Os Sapos",
+          "url": "https://www.academia.org.br/artigos/melancolico-em-livro-de-bandeira-carnaval-em-1919-foi-pura-libertinagem"
+        }
+      ]
+    },
+    {
       "id": "rj1897",
       "uf": "RJ",
       "year": 1897,
@@ -420,7 +460,8 @@
       "connections": [
         "rj1881",
         "rj1909",
-        "mg2003"
+        "mg2003",
+        "rj1888"
       ],
       "source": [
         {
@@ -553,8 +594,8 @@
       ],
       "kind": "obra",
       "place": "Autor nascido no Recife; livro publicado no Rio de Janeiro",
-      "summary": "Bandeira usa a linguagem poética para ironizar procedimentos parnasianos, especialmente o culto excessivo ao acabamento formal.",
-      "rupture": "A crítica não implica abandono absoluto da tradição: o poeta conhece e mobiliza recursos formais para satirizá-los.",
+      "summary": "Em “Os Sapos”, publicado em Carnaval (1919), Manuel Bandeira satiriza os tiques de uma poesia parnasiana diluída e o formalismo transformado em receita. O poema circulou posteriormente na Semana de 1922.",
+      "rupture": "A sátira usa recursos formais tradicionais para questionar o automatismo das normas. Convém distinguir a crítica a epígonos de uma rejeição indiscriminada de todo o Parnasianismo.",
       "society": "A relação entre o prestígio das instituições e a abertura à experimentação ajuda a contextualizar as disputas estéticas.",
       "q2": "Por que um poeta pode usar versos para criticar outros versos?",
       "qm": "Como a paródia, as rimas e a caracterização do “sapo-tanoeiro” desmontam a poética parnasiana?",
@@ -562,7 +603,8 @@
         "mg1768",
         "pe1922",
         "mg1930",
-        "rj1982"
+        "rj1982",
+        "rj1888"
       ],
       "source": [
         {
@@ -572,6 +614,10 @@
         {
           "label": "Academia Brasileira de Letras",
           "url": "https://www.academia.org.br/academicos/manuel-bandeira/textos-escolhidos"
+        },
+        {
+          "label": "ABL — crítica aos excessos do Parnasianismo",
+          "url": "https://www.academia.org.br/artigos/melancolico-em-livro-de-bandeira-carnaval-em-1919-foi-pura-libertinagem"
         }
       ]
     },
@@ -1149,7 +1195,7 @@
   ],
   "stats": {
     "MG": 8,
-    "RJ": 7,
+    "RJ": 8,
     "PE": 10
   }
 }

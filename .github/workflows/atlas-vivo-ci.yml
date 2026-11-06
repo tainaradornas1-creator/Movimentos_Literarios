@@ -1,0 +1,29 @@
+name: Validar Atlas Vivo
+
+on:
+  pull_request:
+    paths:
+      - 'atlas-vivo/**'
+      - '.github/workflows/atlas-vivo-ci.yml'
+  push:
+    paths:
+      - 'atlas-vivo/**'
+      - '.github/workflows/atlas-vivo-ci.yml'
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: atlas-vivo
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verificar sintaxe dos módulos
+        run: |
+          node --check src/app.js
+          node --check src/model.js
+      - name: Testar integridade editorial
+        run: npm test

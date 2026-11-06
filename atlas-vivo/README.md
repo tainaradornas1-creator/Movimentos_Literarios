@@ -1,40 +1,51 @@
 # Atlas Vivo da Literatura Brasileira
 
-Protótipo de uma plataforma de investigação literária para o Ensino Fundamental II e o Ensino Médio, com exploração autônoma e mediação docente.
+Plataforma de investigação literária para **Ensino Fundamental II e Ensino Médio**, com exploração autônoma e mediação docente. Piloto: Minas Gerais, Rio de Janeiro e Pernambuco.
 
-## Como experimentar
+## Executar
 
-Abra [index.html](./index.html) no navegador. A interface e os dados do piloto estão incorporados ao HTML para funcionar sem um servidor de aplicação. O contorno geográfico pode usar conexão à internet; se estiver indisponível, há seleção dos estados por pontos e por menu.
-
-Para servir localmente (opcional), a partir da pasta `atlas-vivo`:
+A aplicação usa módulos ES e carrega dados por `fetch`; **não basta abrir index.html com file://**. Sirva a pasta por HTTP:
 
 ```sh
+cd atlas-vivo
 python -m http.server 8000
 ```
 
-Então visite `http://localhost:8000`.
+Abra **http://localhost:8000/**. Node 20+ é usado apenas para os testes, não para executar a interface.
 
-## Conteúdo piloto
+## Testar
 
-- **MG:** 8 marcos
-- **RJ:** 7 marcos
-- **PE:** 10 marcos
-- **4 roteiros investigativos:** identidade literária; conflitos de forma; cânone, raça e sociedade; sertões e linguagem.
-- **27 unidades federativas selecionáveis**, com apenas MG, RJ e PE já curadas.
-- Filtros por tema; questões diferenciadas por etapa; mediação docente; registro e exportação de hipóteses.
+```sh
+cd atlas-vivo
+npm test
+```
 
-## Arquivos
+O conjunto usa o test runner nativo do Node; não há dependências npm a instalar. O GitHub Actions executa os testes em pull requests e mudanças relevantes.
 
-- `index.html`: interface navegável e dados incorporados.
-- `dados/piloto.json`: base estruturada para evolução da aplicação.
-- `docs/planejamento-pedagogico.md`: objetivos, princípios de curadoria, marcos, percursos, requisitos e roadmap.
+## Organização
 
-## Cuidados editoriais
+- `index.html`: estrutura visual acessível e responsiva;
+- `src/styles.css`: estilos da interface;
+- `src/app.js`: interação com mapa, cronologias, filtros e exportação de hipóteses;
+- `src/model.js`: filtragem, indexação, contexto histórico e validação testável;
+- `dados/piloto.json`: **26 marcos** (MG 8, RJ 8, PE 10), 27 estados cadastrados e quatro roteiros;
+- `dados/relacoes.json`: **13 relações tipadas** entre marcos literários;
+- `docs/planejamento-pedagogico.md`: planejamento inicial;
+- `docs/arquitetura.md`: arquitetura, decisões e etapas seguintes;
+- `tests/model.test.js`: testes automatizados de integridade editorial.
 
-A obra pode relacionar-se a diversos estados por nascimento, residência, produção, circulação ou tema, sem atribuição exclusiva. O atlas distingue dados históricos verificáveis de hipóteses interpretativas. Uma escola literária não é tratada como substituta linear de outra. As fontes citadas nos marcos devem passar por revisão editorial contínua.
+## Experiência de aprendizagem
 
-## Situação do projeto
+Escolha o estado no mapa ou menu. Veja **duas cronologias em paralelo**: a territorial e o contexto nacional. O painel **Rupturas, críticas e diálogos** liga visualmente dois marcos (com anos e estados) e permite filtrar por crítica, disputa, ruptura, diálogo e continuidade. Cada conexão traz evidências e uma questão investigativa adaptada ao Fundamental II ou ao Ensino Médio.
 
-**Versão 0.1 — piloto.** Sem contas de usuários nem armazenamento remoto de anotações. Dados do JSON e do HTML são duplicados intencionalmente neste piloto e precisam ser unificados em uma futura arquitetura. São prioridades: testes automatizados versionados; acessibilidade; linha do tempo nacional e estadual em paralelo; validação das fontes; expansão da curadoria; criação de um grafo explícito de conflitos; e licenciamento de trechos de obras.
+Para o professor, há modo de mediação. Para o aluno, registro e exportação local de reflexões em TXT — não há conta, banco de dados ou coleta de respostas.
 
-O conteúdo e o protótipo estão em revisão, não constituem um recurso curricular homologado.
+## Cuidados e limites
+
+O piloto é uma **seleção curatorial**, não um repertório exaustivo. O estado pode refletir nascimento, produção, circulação ou tema. Fronteiras estaduais atuais não equivalem às antigas capitanias. As conexões assinaladas como interpretativas não demonstram influência direta entre autores.
+
+O confronto **Olavo Bilac / Manuel Bandeira** exige nuance: “Os Sapos” ironiza especialmente os tiques e epígonos do Parnasianismo, não necessariamente o movimento inteiro. O marco de Bilac traz fontes da ABL e da UFSC.
+
+As fontes, a representatividade de cada território, os direitos autorais e a acessibilidade devem continuar sendo revisados antes do uso curricular em produção.
+
+**Versão 0.2 — piloto em desenvolvimento.**
