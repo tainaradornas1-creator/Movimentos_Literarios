@@ -64,11 +64,13 @@
 | Etapa | Prioridade | Estado inicial |
 | --- | --- | --- |
 | 0 — Governança | P0 | Concluída no registro deste plano |
-| 1 — Rascunhos | P0 | A executar |
-| 2 — Validação | P0 | A executar |
+| 1 — Rascunhos | P0 | Implementado e CI aprovado; E2E pendente na etapa 6 |
+| 2 — Validação | P0 | Implementado; 17/17 testes de projeto aprovados no CI |
 | 3 — Roteiros | P1 | A executar |
 | 4 — Acessibilidade/geo | P1 | A executar |
 | 5 — Editorial/docs | P1/P2 | A executar |
 | 6 — QA final | P1 | A executar |
 
-**Próxima ação imediata:** implementar etapa 1 e comprovar testes, depois etapa 2. Marcar estados de forma correspondente a commits e CI.
+**Atualização (06/11/2026):** etapas 0, 1 e 2 implementadas em branch isolada; commits `63fe0452`, `c47b5c5d`, `f31fc43b`. CI [#42275003627](https://github.com/tainaradornas1-creator/Movimentos_Literarios/actions/runs/42275003627) aprovada com 17/17 testes, nenhum erro. Não foi realizado teste ponta a ponta no site público, que permanece na versão 0.2.
+
+**Próximo incremento:** etapa 3 (roteiros guiados), com validação específica da experiência pedagógica, sem merge/deploy automático.
