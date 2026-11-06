@@ -77,7 +77,7 @@ async function bootstrap(){
   initMap();setState('MG');
  }catch(error){
   console.error('Erro ao iniciar Atlas Vivo:',error);
-  $('timeline-list').innerHTML='<div class="loading error">Não foi possível carregar a base literária. Use um servidor HTTP local (veja o README) e confira os arquivos JSON.</div>';
+  $('timeline-list').innerHTML='<div class="loading error">Não foi possível abrir a linha do tempo: os dados estão indisponíveis ou inconsistentes. Tente recarregar a página ou informe o responsável.</div>';
   $('map-status').textContent='Falha ao carregar os dados da aplicação.';
  }
 }
